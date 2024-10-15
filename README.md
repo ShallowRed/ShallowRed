@@ -1,3 +1,4 @@
-# ShallowRed
-- Web designer/developper
-- See [Deep blue](https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer))
+# ShallowRed (Lucas Poulain)
+Web designer & developper @[Vraiment Vraiment](https://vraimentvraiment.com/)
+
+[LinkedIn](https://www.linkedin.com/in/lucas-poulain-81a229171/)
